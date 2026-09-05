@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Rebound — AI Revenue Recovery Agent
 ### Razorpay AI Buildathon — Track 3: AI Revenue Recovery
 
@@ -194,5 +194,5 @@ The automated test suite in `backend/tests/test_pipeline.py` asserts:
 - **8.E (Closing Demo Beat)**: Exact same Sentinel instance approves/blocks simulated buyer agent requests.
 - **8.F (Judge QA)**: Complete written, rehearsed answers provided in `docs/JUDGE_QA.md`.
 =======
-# AI-REVENUE-RECOVERY
->>>>>>> 7b5986cb61d60cfa173f557b36e248af6ed13d3d
+
+
