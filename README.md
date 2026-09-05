@@ -193,6 +193,6 @@ The automated test suite in `backend/tests/test_pipeline.py` asserts:
 - **8.D (Failure Handling)**: 17 graceful multi-step fallback cases demonstrated and cleanly stopped.
 - **8.E (Closing Demo Beat)**: Exact same Sentinel instance approves/blocks simulated buyer agent requests.
 - **8.F (Judge QA)**: Complete written, rehearsed answers provided in `docs/JUDGE_QA.md`.
-=======
+
 
 
