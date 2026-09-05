@@ -1,0 +1,52 @@
+{
+  "Starter": {
+    "plan_id": "plan_TYM6Bzg8iBVNwz",
+    "name": "Starter",
+    "amount_in_paise": 49900,
+    "amount_in_inr": 499.0,
+    "currency": "INR",
+    "period": "monthly",
+    "interval": 1,
+    "description": "Starter Tier Subscription"
+  },
+  "Growth": {
+    "plan_id": "plan_TYM7kSBKYsf6Fn",
+    "name": "Growth",
+    "amount_in_paise": 199900,
+    "amount_in_inr": 1999.0,
+    "currency": "INR",
+    "period": "monthly",
+    "interval": 1,
+    "description": "Growth Tier Subscription"
+  },
+  "Enterprise": {
+    "plan_id": "plan_TYM8RxbGcgA41q",
+    "name": "Enterprise",
+    "amount_in_paise": 499900,
+    "amount_in_inr": 4999.0,
+    "currency": "INR",
+    "period": "monthly",
+    "interval": 1,
+    "description": "Enterprise Tier Subscription"
+  },
+  "Annual": {
+    "plan_id": "plan_TYM9PDBAuv2auP",
+    "name": "Annual",
+    "amount_in_paise": 499000,
+    "amount_in_inr": 4990.0,
+    "currency": "INR",
+    "period": "yearly",
+    "interval": 1,
+    "description": "Annual Tier Subscription"
+  },
+  "Trial": {
+    "plan_id": "plan_TYMA0Cu68OotHH",
+    "name": "Trial",
+    "amount_in_paise": 100,
+    "amount_in_inr": 1.0,
+    "currency": "INR",
+    "period": "monthly",
+    "interval": 1,
+    "description": "Trial Tier Subscription"
+  }
+}
